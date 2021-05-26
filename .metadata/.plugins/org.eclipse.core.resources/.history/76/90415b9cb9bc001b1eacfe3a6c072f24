@@ -1,0 +1,54 @@
+package variaveis;
+
+public class TiposDados {
+	// main() é o start point de uma aplicação Java
+	public static void main(String[] args) {
+		
+		//Sintaxe: <Tipo de dado> <nome da variavel> = dado;
+		/*tipo de dados:
+		 * Alfanúmerico: é um texto, parte de um texto ou um número que não será utilizado em operações matemáticas.
+		 *  
+		 * Numérico: representa um dado que pode ser utilizado em expressões matemáticas
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	
+	
+	}
+	
+	
+	
+	
+	
+// ctrl Shift S para salvar a classe
+
+// para fazer comentarios usar //
+// para fazer um comentario com varias linhas /* e ir usando * para cada linha e fechar com /*

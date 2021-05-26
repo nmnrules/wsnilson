@@ -1,0 +1,32 @@
+package variaveis;
+
+public class ManipulaString {
+
+	public static void main(String[] args) {
+		
+		String email = "nMnrUleshotmaIl.cOm";
+		System.out.println("Original: " + email);
+		System.out.println("Minuscula: " +email.toLowerCase()); //exibe tudo minusculo
+		System.out.println("Maiusculo: " +email.toUpperCase()); //exibe tudo maisculo
+		System.out.println("Tem Arroba?" +email.contains("@"));  //confirma se tem ou não um caracter
+		System.out.println("Posição do Arroba:" +email.indexOf("@")); //exibe em qual posição está determinado caracter
+		System.out.println("Quantos Caracteres:" +email.length()); //exibe a quantidade de caracteres
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
